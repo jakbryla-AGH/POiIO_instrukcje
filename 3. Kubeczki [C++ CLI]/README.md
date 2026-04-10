@@ -10,4 +10,4 @@ Poszczególne lekcje umieszczone są w folderach, wykonuj je w kolejności:</br>
 4. Wykresy</br>
 5. Plik instalacyjny</br>
 </br>
-W każdym folderze najdziesz instrukcję w formacie *.pdf oraz ewentualne dodatkowe pliki konieczne do wykonania zadań.
+W każdym folderze znajdziesz instrukcję w formacie *.pdf oraz ewentualne dodatkowe pliki konieczne do wykonania zadań.
