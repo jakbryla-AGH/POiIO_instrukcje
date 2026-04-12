@@ -1,4 +1,4 @@
-<h1> 2. Kubeczki [C++/CLI] </h1>
+<h1> 3. Kubeczki [C++/CLI] </h1>
    
 Instrukcje prowadzą przez naukę tworzenia aplikacji okienkowych w języku C++/CLI. Możesz zapoznać się z działaniem aplikacji poprzez ściągnięcie pliku <a href="https://github.com/jakbryla-AGH/POiIO_instrukcje/blob/main/3.%20Kubeczki%20%5BC%2B%2B%20CLI%5D/Setup2.msi">setup.msi</a> i instalację programu "kubeczki".
 
